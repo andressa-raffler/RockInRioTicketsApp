@@ -1,0 +1,2 @@
+# Sistema de Logins para Venda de Ingressos Rock in Rio
+O objetivo deste sistema é permitir a venda de ingressos para um mega show de Rock in Rio de forma justa e eficiente, garantindo que apenas pessoas que receberão os ingressos sejam capazes de finalizar a compra. Além disso, o sistema deve lidar com a concorrência de acessos e garantir que clientes com diferentes velocidades de internet tenham a mesma oportunidade de compra.
